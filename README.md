@@ -39,6 +39,6 @@
   see if error messages occur 
 
   ## Questions:
-  If you have any questions please contact at eric.yarbrough@utexas.edu. To see more repositories checkout [ericy98](https://github.com/ericy98/)!
+  If you have any questions please contact me at eric.yarbrough@utexas.edu. To see more repositories checkout [ericy98](https://github.com/ericy98/)!
   
 
