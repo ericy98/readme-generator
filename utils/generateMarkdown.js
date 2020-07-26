@@ -20,27 +20,27 @@ function generateMarkdown(data) {
 
   * [Questions](#questions)
 
-  ### Installation:
+  ## Installation:
 
   ${data.installation}
 
-  ### Usage:
+  ## Usage:
 
   ${data.usage}
 
-  ### License:
+  ## License:
 
   ${data.license}
 
-  ### Contribution:
+  ## Contribution:
 
   ${data.contribution}
 
-  ### Tests:
+  ## Tests:
 
   ${data.tests}
 
-  ### Questions:
+  ## Questions:
   If you have any questions please contact at ${data.email}. To see more repositories checkout [${data.github}](https://github.com/${data.github}/)!
   
 
