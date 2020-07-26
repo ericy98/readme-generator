@@ -2,7 +2,7 @@
 
   ## Description:
   
-  generate a readme after answering questions
+  a program that generates a readme file
 
   ## Table of Contents
   
@@ -18,27 +18,27 @@
 
   * [Questions](#questions)
 
-  ### Installation:
+  ## Installation:
 
   download node.js, then clone into my repo
 
-  ### Usage:
+  ## Usage:
 
-  go into the command line and generate a readme.md file
+  go into the commant line and generate a readme.md file
 
-  ### License:
+  ## License:
 
   MIT
 
-  ### Contribution:
+  ## Contribution:
 
-  expand on question options and styling
+  expand on the look of the questions and the styling of the readme file
 
-  ### Tests:
+  ## Tests:
 
-  see if anything gives an error message
+  see if error messages occur 
 
-  ### Questions:
+  ## Questions:
   If you have any questions please contact at eric.yarbrough@utexas.edu. To see more repositories checkout [ericy98](https://github.com/ericy98/)!
   
 
