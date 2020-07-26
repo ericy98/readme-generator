@@ -6,21 +6,21 @@
 
   ## Table of Contents
   
-  * [Installation] (#installation)
+  * [Installation](#installation)
 
-  * [Usage] (#usage)
+  * [Usage](#usage)
 
-  * [License] (#license)
+  * [License](#license)
 
-  * [Contribution] (#contribution)
+  * [Contribution](#contribution)
 
-  * [Tests] (tests)
+  * [Tests](#tests)
 
-  * [Questions] (#questions)
+  * [Questions](#questions)
 
   ### Installation:
 
-  download node.js, then clone into my repo 
+  download node.js, then clone into my repo
 
   ### Usage:
 
@@ -39,6 +39,6 @@
   see if anything gives an error message
 
   ### Questions:
-  If you have any questions please contact ericy98 at eay2016@gmail.com.
+  If you have any questions please contact at eric.yarbrough@utexas.edu. To see more repositories checkout [ericy98](https://github.com/ericy98/)!
   
 
